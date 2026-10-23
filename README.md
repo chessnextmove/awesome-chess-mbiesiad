@@ -89,8 +89,8 @@ International:
 
 ## Move's validations
 
-* [chess.js](https://github.com/jhlywa/chess.js) - A JavaScript chess library for chess move generation/validation, piece placement/movement, and check/checkmate/stalemate detection.
-* [node-chess](https://www.npmjs.com/package/chess) - An algebraic notation driven chess engine that can validate board position and produce a list of valid moves.
+* [chess.js](https://github.com/jhlywa/chess.js) - A JavaScript chess library for chess move generation/validation, piece placement/movement, and check/checkmate/draw detection.
+* [node-chess](https://www.npmjs.com/package/chess) - An algebraic notation driven chess engine that can validate board position and produce a list of viable moves (notated).
 
 ## Projects
 Repos
@@ -103,12 +103,12 @@ Repos
 * [Chess Alpha Zero](https://github.com/Zeta36/chess-alpha-zero) - Chess reinforcement learning by AlphaGo Zero methods.
 * [python-chess](https://github.com/niklasf/python-chess) - A chess library for Python, with move generation and validation, PGN parsing and writing, Polyglot opening book reading, Gaviota tablebase probing, Syzygy tablebase probing, and UCI/XBoard engine communication.
 * [Lichobile](https://github.com/veloce/lichobile) - Lichess.org mobile application.
-* [Game Server](https://github.com/jzyong/game-server) - Distributed Java game server, including cluster management server, gateway server, hall server, game server, etc.
+* [Game Server](https://github.com/jzyong/game-server) - Distributed Java game server, including cluster management server, gateway server, hall server, game logic server, background monitoring server and a running web version of fishing. State machine, behavior tree, A* pathfinding, navigation mesh and other AI tools.
 * [Tensorflow_chessbot](https://github.com/Elucidation/tensorflow_chessbot) - Predict chessboard FEN layouts from images using TensorFlow.
 * [Command Line Chess](https://github.com/marcusbuffett/command-line-chess) - A Python program to play chess against an AI in the terminal.
 * [WintrChess](https://github.com/WintrCat/wintrchess) - A website that analyses Chess games with move classifications.
 * [Chess Encryption](https://github.com/WintrCat/chessencryption) - Project about encrypting files into large sets of Chess games stored in PGN format.
-* [ChessLab](https://tomscii.sig7.se/chesslab) - A desktop program for chess players and chess enthusiasts with 2D and 3D board views, PGN support, engine analysis and more.
+* [ChessLab](https://tomscii.sig7.se/chesslab) - A desktop program for chess players and chess enthusiasts with 2D and 3D board views, PGN support, UCI integration and more. Runs on UNIX-like platforms.
 
 ## Websites
 Chess online for instance.
@@ -123,13 +123,13 @@ Chess online for instance.
 * [chessmatec.com](https://www.chessmatec.com/) - Chess for Kids, an all-in-one chess learning platform for kids (endorsed by the FIDE).
 * [chesslang](https://chesslang.com/) - A platform for chess academies.
 * [infoszach](https://infoszach.pl/) - Site with news about chess (Polish lang.).
-* [ChessBase](https://en.chessbase.com/) - Reports about chess - tournaments, championships, portraits, interviews, World Championships, products and more.
+* [ChessBase](https://en.chessbase.com/) - Reports about chess - tournaments, championships, portraits, interviews, World Championships, product launches and more.
 * [Chess-Results](https://chess-results.com/) - The international chess tournaments results server.
 * [Chessdom](https://www.chessdom.com/) - The global chess news site.
 * [ChessManager](https://www.chessmanager.com/) - An online app created for arbiters and chess tournament organizers.
 * [Internet Chess Club](https://www.chessclub.com/) - ICC is a commercial Internet chess server devoted to the play and discussion of chess and chess variants.
-* [Playchess](http://playchess.com/) - A commercial Internet chess server managed by ChessBase devoted to the play and discussion of chess.
-* [GameKnot](https://gameknot.com/) - A news, strategy, and community site for chess players, offering multiple forms of competition via email and real-time chess.
+* [Playchess](http://playchess.com/) - A commercial Internet chess server managed by ChessBase devoted to the play and discussion of chess and chess variants.
+* [GameKnot](https://gameknot.com/) - A news, strategy, and community site for chess players, offering multiple forms of competition via chess tournaments, ladders and more.
 * [The FIDE Online Arena](https://chessarena.com/) - The official International Chess Federation (FIDE) gaming platform.
 * [Chessable](https://www.chessable.com/) - Site which uses science-backed learning techniques to help boost player retention.
 * [Noctie.ai](https://noctie.ai) – Practice chess against a humanlike chess bot and get feedback on your play.
@@ -187,8 +187,8 @@ Chess online for instance.
 * [Chess Programming Wiki](https://www.chessprogramming.org) - The Chess Programming Wiki is a repository of information about programming computers to play chess.
 * [365Chess](https://www.365chess.com/) - The biggest online chess games database.
 * [Chess Journal](https://www.chessjournal.com/) - A free resource for chess players to learn and master the game of chess.
-* [Chess Pursuit](https://github.com/Saturnyn/ChessPursuit) - The project where idea was to turn the chess game upside down, making it an action game instead of a board game.
-* [Online bots - lichess.org](https://lichess.org/player/bots) - A human-like neural network chess engines and other.
+* [Chess Pursuit](https://github.com/Saturnyn/ChessPursuit) - The project where idea was to turn the chess game upside down, making it an action game instead of a strategy game.
+* [Online bots - lichess.org](https://lichess.org/player/bots) -  A human-like neural network chess engines and other.
 
 ## Other types
 
@@ -212,11 +212,11 @@ Chess online for instance.
 * [Global Chess Festival](http://www.globalchessfestival.com/) - A prestigious chess event.
 * [EOBCC](https://tornelo.com/chess/orgs/europechess/events/eobcc-2020-only-for-players-2300-fide-rating/lobby) - European Online Blitz Chess Championship.
 * [Meltwater Champions Chess Tour](https://championschesstour.com/) - A series of 9 tournaments throughout 2021 with the top players of the world.
-* [TCEC](https://tcec-chess.com/) - Top Chess Engine Championship is a computer chess tournament organized and maintained by Chessdom.
+* [TCEC](https://tcec-chess.com/) - Top Chess Engine Championship is a computer chess tournament organized and maintained by Chessdom in cooperation with Chessdom Arena.
 * [GCT](https://grandchesstour.org/) - The Grand Chess Tour is a circuit of chess tournaments.
 
 ## Online Tournamets
-* [Titled Tuesday](https://www.chess.com/article/view/titled-tuesday-alle-informationen) - Chess.com's weekly 11-round Swiss tournament for titled players, occurring twice each Tuesday since 2014.
+* [Titled Tuesday](https://www.chess.com/article/view/titled-tuesday-alle-informationen) - Chess.com's weekly 11-round Swiss tournament for titled players, occurring twice each Tuesday since February 1, 2022. Early Titled Tuesday: 8 a.m. PT/17:00 CET. Late Titled Tuesday: 2 p.m. PT/23:00 CET. 
 
 ## Movies
 
@@ -227,7 +227,7 @@ Chess online for instance.
 
 ## Articles
 
-* [The World Chess Championship In 5 Charts](https://fivethirtyeight.com/features/the-world-chess-championship-in-5-charts) - Article about the 2021 World Chess Championship on FiveThirtyEight.
+* [The World Chess Championship In 5 Charts](https://fivethirtyeight.com/features/the-world-chess-championship-in-5-charts/) - Article about the 2021 World Chess Championship on FiveThirtyEight.
 
 ## APIs
 
