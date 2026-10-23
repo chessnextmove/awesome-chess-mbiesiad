@@ -72,43 +72,38 @@ International:
 * [AN](https://en.wikipedia.org/wiki/Algebraic_notation_(chess)) - Algebraic notation.
 
 ## Pieces
-
 * [Chess symbols in Unicode](https://en.wikipedia.org/wiki/Chess_symbols_in_Unicode) - Wikipedia site about chess symbols.
 * [PNG chess pieces](https://commons.wikimedia.org/wiki/Category:PNG_chess_pieces/Standard_transparent) - Wikimedia.org about PNG chess pieces.
 
 ## Chess boards
-
 * [chessboard-js](https://github.com/caustique/chessboard-js) - Repo on GitHub, responsive mobile-first JavaScript chessboard library.
 * [chessboardjs](https://github.com/oakmac/chessboardjs/) - JavaScript chessboard, repo on GitHub.
 * [jchess](https://github.com/bmarini/jchess) - A jQuery-based JavaScript library for parsing and displaying chess games, repo on GitHub.
 * [chess-board](https://github.com/laat/chess-board) - A web component for displaying chess positions, repo on GitHub.
 
 ## Chess clocks
-
-* [Chess Clock](https://play.google.com/store/apps/details?id=com.chess.clock) - Chess clock by Chess.com on Google Play.
+* [Chess Clock](https://play.google.com/store/apps/details?id=com.chess.clock&hl=en&gl=US) - Chess clock by Chess.com on Google Play.
 * [Chess clock](https://www.online-stopwatch.com/chess-clock/) - Chess clock by Online Stopwatch.
-* [Chess timer](https://timeme.com/chess-timer) - Chess timer by TimeMe.
+* [Chess timer](https://www.timeme.com/chess-timer.htm) - Chess timer by TimeMe.
 * [Chess-Clock](https://github.com/Tuhaj/Chess-Clock) - Well-prepared chess timer by Tuhaj which helps during play of board games like chess or scrabble.
 
 ## Move's validations
 
 * [chess.js](https://github.com/jhlywa/chess.js) - A JavaScript chess library for chess move generation/validation, piece placement/movement, and check/checkmate/stalemate detection.
-* [node-chess](https://github.com/weems/node-chess) - An algebraic notation driven chess engine that can validate board position and produce a list of valid moves.
+* [node-chess](https://www.npmjs.com/package/chess) - An algebraic notation driven chess engine that can validate board position and produce a list of valid moves.
 
 ## Projects
-
 Repos
-
-* [angular-chess](https://github.com/t-mullen/angular-chess) - Chess directive for AngularJS.
-* [angular-chessboard](https://github.com/mikejholly/angular-chessboard) - Chessboard directive for AngularJS.
+* [angular-chess](https://github.com/theborakompanioni/angular-chess) - Chess directive for AngularJS.
+* [angular-chessboard](https://github.com/theborakompanioni/angular-chessboard) - Chessboard directive for AngularJS.
 * [PyChess](https://github.com/pychess/pychess) - A chess client for Linux/Windows.
-* [FlutterChess](https://github.com/kherel/FlutterChess) - A concept chess app for Flutter.
-* [AndroidChessClock](https://github.com/Akylas/OneChessClock) - Simple chess clock for Android.
+* [FlutterChess](https://github.com/deven98/FlutterChess) - A concept chess app for Flutter.
+* [AndroidChessClock](https://github.com/johnwilde/AndroidChessClock) - Simple chess clock for Android.
 * [Lila](https://github.com/ornicar/lila) - A free online chess game server focused on realtime gameplay and ease of use.
 * [Chess Alpha Zero](https://github.com/Zeta36/chess-alpha-zero) - Chess reinforcement learning by AlphaGo Zero methods.
 * [python-chess](https://github.com/niklasf/python-chess) - A chess library for Python, with move generation and validation, PGN parsing and writing, Polyglot opening book reading, Gaviota tablebase probing, Syzygy tablebase probing, and UCI/XBoard engine communication.
-* [Lichobile](https://github.com/lichess-org/mobile) - Lichess.org mobile application.
-* [Game Server](https://github.com/netty/netty) - Distributed Java game server, including cluster management server, gateway server, hall server, game server, etc.
+* [Lichobile](https://github.com/veloce/lichobile) - Lichess.org mobile application.
+* [Game Server](https://github.com/jzyong/game-server) - Distributed Java game server, including cluster management server, gateway server, hall server, game server, etc.
 * [Tensorflow_chessbot](https://github.com/Elucidation/tensorflow_chessbot) - Predict chessboard FEN layouts from images using TensorFlow.
 * [Command Line Chess](https://github.com/marcusbuffett/command-line-chess) - A Python program to play chess against an AI in the terminal.
 * [WintrChess](https://github.com/WintrCat/wintrchess) - A website that analyses Chess games with move classifications.
@@ -116,9 +111,7 @@ Repos
 * [ChessLab](https://tomscii.sig7.se/chesslab) - A desktop program for chess players and chess enthusiasts with 2D and 3D board views, PGN support, engine analysis and more.
 
 ## Websites
-
 Chess online for instance.
-
 * [chess24.com](https://chess24.com/en/play/chess) - Free live chess with humans or computers, watch games, chat and join tournaments.
 * [chess.com](http://www.chess.com/) - The chess community with +30 million members around the world.
 * [lichess.org](http://en.lichess.org/) - Lichess is a free and open-source Internet chess server run by a non-profit organization of the same name.
@@ -139,9 +132,9 @@ Chess online for instance.
 * [GameKnot](https://gameknot.com/) - A news, strategy, and community site for chess players, offering multiple forms of competition via email and real-time chess.
 * [The FIDE Online Arena](https://chessarena.com/) - The official International Chess Federation (FIDE) gaming platform.
 * [Chessable](https://www.chessable.com/) - Site which uses science-backed learning techniques to help boost player retention.
-* [Noctie.ai](https://noctie.ai) - Practice chess against a humanlike chess bot and get feedback on your play.
-* [OpeningTrainer](https://openingtrainer.com) - Train openings by playing simulated games against the Lichess database.
-* [EndgameTrainer](https://endgametrainer.com) - 6000+ high-quality theoretical endgame positions.
+* [Noctie.ai](https://noctie.ai) – Practice chess against a humanlike chess bot and get feedback on your play.
+* [OpeningTrainer](https://openingtrainer.com) – Train openings by playing simulated games against the Lichess database.
+* [EndgameTrainer](https://endgametrainer.com) – 6000+ high-quality theoretical endgame positions.
 - [Chess Next Move - Free Chess Move Calculator](https://chessnewmove.com/) - Free online tool that finds the best move in any chess position with instant engine analysis.
 
 ## National chess federations
@@ -176,30 +169,30 @@ Chess online for instance.
 
 **Australia (Oceania):**
 
-* [ACF](https://www.auschess.org.au/) - The Australian Chess Federation.
+* [ACF](https://www.auschess.org.au) - The Australian Chess Federation.
 
 ## Other
 
-* [Ratings - International Chess Federation](https://ratings.fide.com/) - FIDE ratings and statistics.
-* [0x88](https://www.chessprogramming.org/0x88) - A square-centric method of representing the chess board used by some chess programs.
-* [Bitboard](https://www.chessprogramming.org/Bitboard) - A bitboard is a specialized bit array data structure commonly used in computer systems that play board games.
-* [Robot Chess](https://github.com/leapmotion/leapchess) - Leap Motion chess game.
-* [CarlsenBot](https://github.com/danielsuarez/GariC) - Voice controlled chess robot.
+* [Ratings - International Chess Federation](http://ratings.fide.com/) - FIDE ratings and statistics.
+* [0x88](https://en.wikipedia.org/wiki/0x88) - A square-centric method of representing the chess board used by some chess programs.
+* [Bitboard](https://en.wikipedia.org/wiki/Bitboard#Chess_bitboards) - A bitboard is a specialized bit array data structure commonly used in computer systems that play board games.
+* [Robot Chess](https://devpost.com/software/robot-chess) - Leap Motion chess game.
+* [CarlsenBot](https://hackaday.com/2013/05/09/voice-controlled-chess-robot) - Voice controlled chess robot.
 * [lichess in Crowdin](https://crowdin.com/project/lichess) - Lichess' translations in Crowdin.
 * [Judit Polgar](https://www.juditpolgar.com/) - GM Judit Polgar page.
-* [Hikaru Nakamura](https://www.chess.com/players/hikaru-nakamura) - GM Hikaru Nakamura page.
-* [Magnus Carlsen](https://www.chess.com/players/magnus-carlsen) - GM Magnus Carlsen page.
+* [Hikaru Nakamura](https://hikarunakamura.com/) - GM Hikaru Nakamura page.
+* [Magnus Carlsen](https://www.magnuscarlsen.com/) - GM Magnus Carlsen page.
 * [Chess prodigy](https://en.wikipedia.org/wiki/Chess_prodigy) - Site about Chess prodigy by Wikipedia.
 * [Chess titles](https://en.wikipedia.org/wiki/Chess_title) - Chess titles by Wikipedia.
-* [Chess Programming Wiki](https://www.chessprogramming.org/Main_Page) - The Chess Programming Wiki is a repository of information about programming computers to play chess.
+* [Chess Programming Wiki](https://www.chessprogramming.org) - The Chess Programming Wiki is a repository of information about programming computers to play chess.
 * [365Chess](https://www.365chess.com/) - The biggest online chess games database.
-* [Chess Journal](https://chessjournal.com/) - A free resource for chess players to learn and master the game of chess.
-* [Chess Pursuit](https://github.com/ian-chess/pursuit) - The project where idea was to turn the chess game upside down, making it an action game instead of a board game.
+* [Chess Journal](https://www.chessjournal.com/) - A free resource for chess players to learn and master the game of chess.
+* [Chess Pursuit](https://github.com/Saturnyn/ChessPursuit) - The project where idea was to turn the chess game upside down, making it an action game instead of a board game.
 * [Online bots - lichess.org](https://lichess.org/player/bots) - A human-like neural network chess engines and other.
 
 ## Other types
 
-* [Xiangqi](https://en.wikipedia.org/wiki/Xiangqi) - Called Chinese chess.
+* [Xiangqi](https://www.xiangqi.com/) - Called Chinese chess.
 * [Shogi](https://en.wikipedia.org/wiki/Shogi) - Called Japanese chess.
 * [Janggi](https://en.wikipedia.org/wiki/Janggi) - Called Korean chess.
 * [Makruk](https://en.wikipedia.org/wiki/Makruk) - Called Thai chess.
@@ -207,23 +200,22 @@ Chess online for instance.
 
 ## Conferences
 
-* [London Chess Conference](https://www.londonchessconference.com/) - Site of London Chess Conference.
+* [London Chess Conference](https://londonchessconference.com/) - Site of London Chess Conference.
 
 ## Tournaments
 
 * [Tata Steel Chess](https://www.tatasteelchess.com/) - An annual chess tournament held in January in Wijk aan Zee, the Netherlands.
-* [Biel International Chess Festival](https://www.bielchessfestival.ch/) - Homepage of the Biel International Chess Festival.
-* [Legends of Chess](https://chess24.com/en/play/chess) - The chess24 Legends of Chess site for 2020.
-* [FIDE Online Olympiad](https://onlineolympiad.fide.com/) - FIDE Online Olympiad site.
-* [Altibox Norway Chess](https://norwaychess.no/en/) - One of the world's strongest chess tournament.
-* [Global Chess Festival](https://globalchessfestival.com/) - A prestigious chess event.
-* [EOBCC](https://www.europechess.org/) - European Online Blitz Chess Championship.
+* [Biel International Chess Festival](https://www.bielchessfestival.ch/Homepage.html) - Homepage of the Biel International Chess Festival.
+* [Legends of Chess](https://chess24.com/en/watch/live-tournaments/chess24-legends-of-chess-2020) - The chess24 Legends of Chess site for 2020.
+* [FIDE Online Olympiad](https://olymp.fide.com/news) - FIDE Online Olympiad site.
+* [Altibox Norway Chess](https://norwaychess.no/) - One of the world's strongest chess tournament.
+* [Global Chess Festival](http://www.globalchessfestival.com/) - A prestigious chess event.
+* [EOBCC](https://tornelo.com/chess/orgs/europechess/events/eobcc-2020-only-for-players-2300-fide-rating/lobby) - European Online Blitz Chess Championship.
 * [Meltwater Champions Chess Tour](https://championschesstour.com/) - A series of 9 tournaments throughout 2021 with the top players of the world.
 * [TCEC](https://tcec-chess.com/) - Top Chess Engine Championship is a computer chess tournament organized and maintained by Chessdom.
 * [GCT](https://grandchesstour.org/) - The Grand Chess Tour is a circuit of chess tournaments.
 
 ## Online Tournamets
-
 * [Titled Tuesday](https://www.chess.com/article/view/titled-tuesday-alle-informationen) - Chess.com's weekly 11-round Swiss tournament for titled players, occurring twice each Tuesday since 2014.
 
 ## Movies
